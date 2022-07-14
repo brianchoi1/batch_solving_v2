@@ -1,0 +1,2 @@
+JOBID   USER    STAT  QUEUE      FROM_HOST   EXEC_HOST   JOB_NAME   SUBMIT_TIME
+298329  wookjin RUN   moldflow   hpc1        4*cn503     3d_3g_25s  Mar  5 18:21

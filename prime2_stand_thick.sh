@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 prime2_stand_thick.sdy 2>&1 > job_prime2_stand_thick.txt

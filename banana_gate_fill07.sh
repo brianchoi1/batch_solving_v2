@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 banana_gate_fill07.sdy 2>&1 > job_banana_gate_fill07.txt

@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 g4_case2_no_valve_control_35mpa_side3t.sdy 2>&1 > job_g4_case2_no_valve_control_35mpa_side3t.txt

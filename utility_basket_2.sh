@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 utility_basket_2.sdy 2>&1 > job_utility_basket_2.txt

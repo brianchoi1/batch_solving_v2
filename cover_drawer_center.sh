@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 cover_drawer_center.sdy 2>&1 > job_cover_drawer_center.txt

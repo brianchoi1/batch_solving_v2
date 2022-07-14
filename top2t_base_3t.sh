@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 top2t_base_3t.sdy 2>&1 > job_top2t_base_3t.txt

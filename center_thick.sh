@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 center_thick.sdy 2>&1 > job_center_thick.txt

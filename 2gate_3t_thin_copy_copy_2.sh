@@ -1,0 +1,1 @@
+. /etc/profile;. ~/.bash_profile;. ~/.bashrc; moldflow ncpu=4 2gate_3t_thin_copy_copy_2.sdy 2>&1 > job_2gate_3t_thin_copy_copy_2.txt

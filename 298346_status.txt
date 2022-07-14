@@ -1,0 +1,2 @@
+JOBID   USER    STAT  QUEUE      FROM_HOST   EXEC_HOST   JOB_NAME   SUBMIT_TIME
+298346  wookjin EXIT  moldflow   hpc1        4*cn521     *iddle_1_2 Mar  5 18:21
